@@ -65,7 +65,7 @@ activities.py contains all the activities that can be performed by FRIENDAID. Th
 
 	hangman(): The  function allows the user to play hangman game.
   
-  todo(): This function offers to do list to the user in which he can store his tasks and delete them after completing.
+  	todo(): This function offers to do list to the user in which he can store his tasks and delete them after completing.
 
 	search(): This function opens the web browser for the user which allows him to open Facebook, YouTube, Instagram, twitter, Gmail and also allows user to search anything over web.
 
